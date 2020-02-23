@@ -103,6 +103,7 @@ a{
   h1{
     text-align: center;
     margin-left: 0px;
+    font-size: 2.5em;
   }
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
@@ -115,6 +116,7 @@ a{
   h1{
     margin-left: 0px;
     text-align: center;
+    font-size: 2.5em;
   }
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
