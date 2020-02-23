@@ -307,7 +307,7 @@
 
 }
 /*for iphone x*/
-@media screen and (height: 812px) {
+@media screen and (max-height: 812px) and (max-width: 420px) {
   .glith-wrapper{
     top: 25%;
     transform: translate(-50%, -75%);
