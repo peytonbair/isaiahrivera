@@ -1,5 +1,6 @@
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 body {
   margin: 0;
@@ -63,6 +64,12 @@ a{
   width: 100%;
 
 }
+.logo img{
+  filter: invert(100%);
+}
+.log img:hover {
+  filter: invert(0%);
+}
 
 .topnav {
   overflow: hidden;
@@ -118,6 +125,10 @@ a{
     text-align: center;
     font-size: 2.5em;
   }
+  iframe{
+    width: 336px;
+    height: 189px;
+  }
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
@@ -128,7 +139,7 @@ a{
     float: none;
     display: block;
     text-align: left;
-    color: black;
+    color: white;
   }
   .topnav a{
     padding: 8px;
