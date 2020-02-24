@@ -6,10 +6,7 @@ body {
   margin: 0;
   background: #212121;
   font-family: 'Tomorrow';
-  color: white;
-  }
-p{
-  line-height: 25pt;
+  position: relative;
 }
 hr{
   position: relative;
