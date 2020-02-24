@@ -37,7 +37,7 @@ h1{
   margin-top: 50px;
   margin-bottom: 50px;
   -webkit-text-fill-color: #212121; /* Will override color (regardless of order) */
-  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: white;
 
 }
