@@ -1,14 +1,16 @@
 html {
   scroll-behavior: smooth;
   overflow-x: hidden;
-  overflow-y: auto;
+
 }
 body {
   margin: 0;
   background: #212121;
   font-family: 'Tomorrow';
-  position: relative;
+  color: white;
+
 }
+
 hr{
   position: relative;
   border: none;
@@ -52,6 +54,8 @@ a{
 }
 .paragraph{
   padding:0px 20%;
+  line-height: 25pt;
+
 }
 .footer{
   padding: 20px;
