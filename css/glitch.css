@@ -323,8 +323,8 @@ and (max-device-width : 568px) {
     font-size: 2em;
   }
   .glith-wrapper{
-    top: 25%;
-    transform: translate(-50%, -75%);
+    top: 30%;
+    transform: translate(-50%, -70%);
   }
   .subtitle{
     font-size: .5em;
